@@ -1,8 +1,8 @@
-# CS50-findmore
+#**CS50-findmore**
 
-Implement a program that finds a number among numbers, per the below.  $ ./generate 1000 | ./find 42 Didn't find needle in haystack.
+_**Find**_ is a program that finds a number among numbers, per the below.  $ ./generate 1000 | ./find 42 Didn't find needle in haystack.
 
-**Specification**
+##**Specification**
 Complete the implementation of find by completing the implementation of search and sort in helpers.c.
 
 
